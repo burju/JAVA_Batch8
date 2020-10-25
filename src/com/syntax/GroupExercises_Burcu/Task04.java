@@ -25,7 +25,8 @@ public class Task04 {
 			if (min_number > array[i]) {
 				min_number = array[i];
 			}
-		}
+		} 
+		// I could have merge these 2 for loops under 1 For loop and link 2 conditions with if&else if
 		System.out.println("\nThe max number in the array is:" + max_number);
 		System.out.println("The min number in the array is:" + min_number);
 	}
