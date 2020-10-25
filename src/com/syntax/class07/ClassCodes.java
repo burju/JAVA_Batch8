@@ -2,7 +2,7 @@ package com.syntax.class07;
 
 import java.util.Scanner;
 
-import com.sun.tools.jdeprscan.scan.Scan;
+
 
 public class ClassCodes {
 	public static void main(String[] args) {
